@@ -1,5 +1,5 @@
 <?php
-session_start();
+session_start ();
 function loginForm(){
 	echo'
 	<div id="loginform">
